@@ -1,0 +1,61 @@
+body {
+    height: 100vh;
+    background-color: black;
+    margin: 0rem;
+    overflow: hidden;
+}
+
+.container {
+    display: grid;
+    place-items: center;
+}
+
+h1 {
+    font-family: 'Space Mono', monospace;
+    font-size: clamp(3rem, 10vw, 10rem);
+    color: white;
+    padding: 0rem clamp(1rem, 2vw, 3rem);
+    border-radius: clamp(0.4rem, 0.75vw, 1rem);
+}
+
+h1:hover {
+    background-color: white;
+    color: black;
+}
+
+.bentogrid {
+    color: white;
+    display: grid;
+    grid-template-rows: repeat(2, 1fr);
+    grid-template-columns: repeat(3, 1fr);
+    place-items: center;
+    gap: 1rem;
+    width: 100vw;
+}
+  
+  .bentogrid:hover {
+    color: black;
+  }
+  
+  .bento {
+    background-color: black;
+    width: 80%;
+    height: 250px;
+    padding: 1px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 0 auto;
+    border-radius: 1rem;
+}
+  
+.bento:hover {
+    background-color: white;
+    color: black;
+}
+
+.bento:not(:hover) {
+    background-color: black;
+    color: white;
+}
