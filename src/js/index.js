@@ -53,3 +53,9 @@ window.onpointermove = event => {
     top: `${clientY}px`
   }, { duration: 3000, fill: "forwards" });
 }
+
+addEventListener("scroll", (event) => {});
+
+onscroll = (event) => {
+  console.log("You Scrolled!");
+};
