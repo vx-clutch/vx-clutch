@@ -30,6 +30,8 @@
     
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
     ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
+    ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+    ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 <br>   
     
@@ -41,6 +43,7 @@
 
 - **Softwares and Tools**:
 
+    ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
     ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
     ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
 
@@ -70,12 +73,14 @@
 <br>
 
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats/Pins </b>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vx-clutch&repo=.dotfiles&theme=discord_old_blurple)](https://github.com/vx-clutch/.dotfiles)
+
 <br>
 
-![vx-clutch's GitHub stats](https://github-readme-stats.vercel.app/api?username=vx-clutch&show_icons=true&theme=discord_old_blurple)
-<br>
- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vx-clutch&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7289DA&icon_color=2234AE&text_color=FFFFFF&bg_color=282b30" width="467"  alt="vx-clutch"/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8&theme=discord_old_blurple)
+
 <br>
 <br>
 <br>
@@ -103,8 +108,9 @@
 
 -----
 
-Credit: [vx-clutch](https://github.com/vx-clutch)
+Credit; [0xAbdulKhalid](https://github.com/0xAbdulKhalid)
 <br>
-Web Version: [https://vx-clutch.github.io/vx-clutch/](https://vx-clutch.github.io/vx-clutch/)
+Credit: [vx-clutch](https://github.com/vx-clutch)
 
-Last Edited on: 1/16/2024
+
+Last Edited on: 2/21/2024
