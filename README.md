@@ -14,8 +14,8 @@
 
 <br>
 
-- A passionate Self-taught Front-end developer
-- Currently learning Web Development, C++, and Python by Self
+- Uses Neovim
+- OCAML MY CAML
 
 <br><br>
 
