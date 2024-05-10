@@ -30,7 +30,7 @@
     
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
     ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
-    ![Go](https://img.shields.io/badge/Go-%23323330.svg?style=for-the-badge&logo=go&logoColor=%79d4fd)
+    ![Go](https://img.shields.io/badge/Go-%79d4fd.svg?style=for-the-badge&logo=go&logoColor=%white)
     ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 <br>   
