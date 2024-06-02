@@ -35,10 +35,6 @@
 
 <br>   
     
-- **Cloud Hosting**:
-
-    ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
-    
 <br>
 
 - **Softwares and Tools**:
@@ -113,4 +109,4 @@ Credit; [0xAbdulKhalid](https://github.com/0xAbdulKhalid)
 Credit: [vx-clutch](https://github.com/vx-clutch)
 
 
-Last Edited on: 5/10/2024
+Last Edited on: 6/2/2024
