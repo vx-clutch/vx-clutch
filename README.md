@@ -1,7 +1,7 @@
 <h1 align="center"><b>Hi , I'm vx-clutch </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=650&height=100&lines=vx-clutch;Self-taught;Python+Developer,;Rust Developer,;and Web Developer;Love+to+learn+new+things;"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=650&height=100&lines=vx-clutch;Self-taught;Systems+Programming;Neovim;Love+to+learn+new+things;"></a>
 </p>
 
 
@@ -15,7 +15,12 @@
 <br>
 
 - vim (btw)
-- arch (btw)
+- Robotics
+- Systems Programming
+- Things I want to learn
+  	- Rust
+  	- C/C++
+  	- Zig
 
 <br><br>
 
@@ -50,7 +55,7 @@
 - **Operating Systems**:
 
     ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
-    ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
+    ![Pop!\_OS](https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white)
 
 <br>
 
@@ -109,4 +114,4 @@ Credit; [0xAbdulKhalid](https://github.com/0xAbdulKhalid)
 Credit: [vx-clutch](https://github.com/vx-clutch)
 
 
-Last Edited on: 6/2/2024
+Last Edited on: 8/6/2024
