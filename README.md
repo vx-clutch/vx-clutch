@@ -17,6 +17,7 @@
 - vim (btw)
 - Robotics
 - Systems Programming
+- Aroace
 - Things I want to learn
   	- Rust
   	- C/C++
