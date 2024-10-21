@@ -17,7 +17,6 @@
 - vim (btw)
 - Robotics
 - Systems Programming
-- Aroace
 - Things I want to learn
   	- Rust
   	- C/C++
@@ -38,6 +37,9 @@
     ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
     ![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=%white)
     ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+    ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+    ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+    ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
 
 <br>   
     
@@ -85,7 +87,6 @@
 <br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vx-clutch&langs_count=8&theme=discord_old_blurple)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sillysoftware&langs_count=8&theme=discord_old_blurple)
 
 
 <br>
@@ -120,4 +121,4 @@ Credit; [0xAbdulKhalid](https://github.com/0xAbdulKhalid)
 Credit: [vx-clutch](https://github.com/vx-clutch)
 
 
-Last Edited on: 8/6/2024
+Last Edited on: 10/21/2024
