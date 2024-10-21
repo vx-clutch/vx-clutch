@@ -85,6 +85,8 @@
 <br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vx-clutch&langs_count=8&theme=discord_old_blurple)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sillysoftware&langs_count=8&theme=discord_old_blurple)
+
 
 <br>
 <br>
