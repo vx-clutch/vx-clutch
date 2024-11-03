@@ -84,7 +84,7 @@
 
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vx-clutch&langs_count=8&theme=discord_old_blurple)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vx-clutch&theme=discord_old_blurple)
 <br>
 [See more of my work here](https://github.com/sillysoftware)
 
@@ -124,8 +124,3 @@ Credit: [vx-clutch](https://github.com/vx-clutch)
 
 
 Last Edited on: 10/21/2024
-
-
-
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sillysoftware&layout=compact)
