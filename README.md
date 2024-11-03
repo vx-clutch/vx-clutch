@@ -128,4 +128,4 @@ Last Edited on: 10/21/2024
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sillysoftware)](https://github.com/anuraghazra/github-readme-stats)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sillysoftware&layout=compact)
