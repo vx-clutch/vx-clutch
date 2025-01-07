@@ -77,14 +77,13 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats/Pins </b>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vx-clutch&repo=.dotfiles&theme=discord_old_blurple)](https://github.com/vx-clutch/.dotfiles)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vx-clutch&repo=.dotfiles&theme=discord_old_blurple)](https://github.com/vx-clutch/dotfiles)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vx-clutch&repo=ftl&theme=discord_old_blurple)](https://github.com/vx-clutch/ftl)
 
 <br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vx-clutch&theme=discord_old_blurple)
 <br>
-[See more of my work here](https://github.com/sillysoftware)
-
 
 <br>
 <br>
