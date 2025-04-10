@@ -78,7 +78,7 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats/Pins </b>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vx-clutch&repo=.dotfiles&theme=discord_old_blurple)](https://github.com/vx-clutch/dotfiles)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vx-clutch&repo=ftl&theme=discord_old_blurple)](https://github.com/vx-clutch/iota)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vx-clutch&repo=iota&theme=discord_old_blurple)](https://github.com/vx-clutch/iota)
 
 <br>
 
